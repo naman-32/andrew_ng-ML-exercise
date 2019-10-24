@@ -4,4 +4,4 @@ This is my coursework done in Machine Learning course of Andrew NG. It includes:
 - Slides of lectures
 - PDF guides through various programming assignments with important implementation tips highlighted.
 - Important snaps during lecture videos.
-<br>Course website :- https://www.coursera.org/learn/machine-learning/home/welcome
+<br>Course website :- https://www.coursera.org/learn/machine-learning
